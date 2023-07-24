@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: #AA6CB5;
+    --contrast-bg-color: #2A1A59;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+
+}
